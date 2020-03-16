@@ -16,3 +16,4 @@ ansible_user=devops
 ansible_ssh_pass=jdokuans
 ansible_sudo_pass=jdokuans
 
+
